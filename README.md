@@ -1,4 +1,5 @@
-Sample From Youtube
+# Sample From Youtube
+
 The purpose of this script is to make it easier to obtain musical samples gathered from YouTube
 
 How it works:
