@@ -1,7 +1,7 @@
 # Sample From Youtube
 The purpose of this script is to make it easier to obtain musical samples from YouTube.
 
-# Installation:
+## Installation:
 Clone repository
 
 ```git clone https://github.com/qkcire/sample_from_youtube.git```
